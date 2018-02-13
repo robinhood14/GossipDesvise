@@ -1,0 +1,10 @@
+<h2> Gossip by <%= @gossips.user.username %> </h2>
+<p> <%= @gossips.content %> </p>
+
+<% if current_user == @gossips.user %>
+
+<p> <%= link_to('Edit my gossip', edit_gossip_path) %> </p> 
+
+<% end %>
+
+<p> <%= link_to('See all Gossips', gossips_path) %> </p> 
