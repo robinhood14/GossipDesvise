@@ -2,7 +2,7 @@
 
 # Création d'une plateforme de Gossip ! 
 
-Le projet ici est la réalisation d'une plate-forme de potins grâce à Ruby On Rails et en utilisant la méthode CRUD.
+Le projet ici est la réalisation d'une plate-forme de potins grâce à Ruby On Rails.
 
 - L'idée est que n'importe quel utilisateur peut y rentrer des "gossips". 
 - Tout ces gossips pourront être éditer et même détruits. 
