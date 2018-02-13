@@ -2,7 +2,7 @@
 
 # Création d'une plateforme de Gossip ! 
 
-Le projet ici est la réalisation d'une plate-forme de potins grâce à Ruby On Rails.
+Le projet ici est la réalisation d'une plate-forme de potins grâce à Ruby On Rails et la Gem devise .
 
 - L'idée est que n'importe quel utilisateur peut créer un compte, se log in et rentrer des "gossips". 
 - Tout ces gossips pourront être édités et même détruits. 
