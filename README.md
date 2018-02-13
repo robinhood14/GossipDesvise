@@ -5,7 +5,7 @@
 Le projet ici est la réalisation d'une plate-forme de potins grâce à Ruby On Rails.
 
 - L'idée est que n'importe quel utilisateur peut créer un compte, se log in et rentrer des "gossips". 
-- Tout ces gossips pourront être éditer et même détruits. 
+- Tout ces gossips pourront être édités et même détruits. 
 - Ils seront egalement listés dans une page index.
 
 Tu peux accéder à ma super application de générateur de Gossip ici :point_right: https://morning-citadel-57807.herokuapp.com/
